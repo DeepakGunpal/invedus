@@ -1,0 +1,59 @@
+[debug] [2023-06-22T05:39:16.795Z] ----------------------------------------------------------------------
+[debug] [2023-06-22T05:39:16.798Z] Command:       C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-06-22T05:39:16.798Z] CLI Version:   12.4.0
+[debug] [2023-06-22T05:39:16.798Z] Platform:      win32
+[debug] [2023-06-22T05:39:16.799Z] Node Version:  v18.16.0
+[debug] [2023-06-22T05:39:16.800Z] Time:          Thu Jun 22 2023 11:09:16 GMT+0530 (India Standard Time)
+[debug] [2023-06-22T05:39:16.800Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-06-22T05:39:16.807Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-06-22T05:39:16.808Z] > authorizing via signed-in user (psivaji777@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\sures\Desktop\Personal Projects\Invedus-Project\invedus
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2023-06-22T05:39:57.735Z] ----------------------------------------------------------------------
+[debug] [2023-06-22T05:39:57.737Z] Command:       C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-06-22T05:39:57.737Z] CLI Version:   12.4.0
+[debug] [2023-06-22T05:39:57.737Z] Platform:      win32
+[debug] [2023-06-22T05:39:57.738Z] Node Version:  v18.16.0
+[debug] [2023-06-22T05:39:57.739Z] Time:          Thu Jun 22 2023 11:09:57 GMT+0530 (India Standard Time)
+[debug] [2023-06-22T05:39:57.739Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-06-22T05:39:57.749Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-06-22T05:39:57.749Z] > authorizing via signed-in user (psivaji777@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\sures\Desktop\Personal Projects\Invedus-Project\invedus
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2023-06-22T05:40:30.449Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
+[debug] [2023-06-22T05:40:32.536Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2023-06-22T05:40:32.536Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
